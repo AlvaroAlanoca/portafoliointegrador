@@ -1,3 +1,5 @@
+## Se realizo la integracion de las clases tal y como se pidio para el proyecto final
+
 ## Cosas que se modificaron 
 ## Antes que nada se debe ingresar desde el index.html de la carpeta principal 
 1. Para el ejercicio 1 se agrego algunos estiulos diferentes en cada una de los csss que se trabajo
